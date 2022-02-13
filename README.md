@@ -16,7 +16,7 @@ Here's what I do:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-I like using python most of all, but am moving more towards web development.
+I like using python most of all, but am moving more towards web development. I'm not being so strict with kanban, tickets, 100% coverage etc. for my github projects.
 
 --------
 <img src="https://github-readme-stats.vercel.app/api?username=samwareing&show_icons=true&theme=blue-green" alt="samwareing" />
