@@ -2,7 +2,7 @@ I'm @samwareing
 ![](https://visitor-badge.glitch.me/badge?page_id=samwareing.samwareing)
 ========
 
-Currently spending my free time working on my MontyCarloPiThon demonstration project.
+Currently spending my free time learning Django and ReactJS.
 
 --------
 
