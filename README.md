@@ -2,7 +2,9 @@ I'm @samwareing
 ![](https://visitor-badge.glitch.me/badge?page_id=samwareing.samwareing)
 ========
 
-Currently spending my free time learning Django and ReactJS.
+Currently spending my free time learning ReactJS.
+
+Currently looking forward to starting a new role.
 
 --------
 
